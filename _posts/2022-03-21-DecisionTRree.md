@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Decision Tree 이론"
+title:  "[Decision Tree] 이론"
 categories: Python Machinelearning
 tag: [Python, Machine learning, Classification, DecisionTree]
 toc: true

@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Decision Tree with Scikit-Learning"
+title:  "[Decision Tree] with Scikit-Learning"
 categories: Python Machinelearning
 tag: [Python, Machine learning, Classification, DecisionTree]
 toc: true
